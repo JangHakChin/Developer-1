@@ -1,2 +1,5 @@
-INDEX VERSION 1.4+/Users/moonone/Desktop/KOSTA/developer/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1558130108.index
+INDEX VERSION 1.4+D:\255\developer\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2109349961.index
+573579280.index
+2592176925.index
+540219092.index
